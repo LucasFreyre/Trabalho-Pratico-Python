@@ -1,7 +1,4 @@
-Os requerimentos para baixar são:
-### Flask==3.1.3
-### Flask-SQLAlchemy==3.1.1
-
+Os requerimentos para baixar estão no requirements.txt
 
 # API de Helpdesk
 
