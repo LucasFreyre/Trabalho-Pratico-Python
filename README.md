@@ -1,4 +1,4 @@
-Os requerimentos para baixar estão no requirements.txt
+Os requerimentos de baixar para rodar estão no requirements.txt
 
 # API de Helpdesk
 
